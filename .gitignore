@@ -1,4 +1,6 @@
 *.css
 password/
+.css
+.js
 
 
